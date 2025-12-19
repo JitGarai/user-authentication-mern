@@ -47,7 +47,7 @@ user-authentication-mern/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/user-authentication-mern.git
+git clone https://github.com/JitGarai/user-authentication-mern.git
 cd user-authentication-mern
 
 ### 2️⃣ Backend Setup
